@@ -49,3 +49,5 @@ function moveCar(direction) {
     carimg.style.top = `${y}px`
   }
 }
+
+//
